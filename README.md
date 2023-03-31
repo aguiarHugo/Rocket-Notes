@@ -1,4 +1,4 @@
-<h1 align="center"> UI Twitter</h1>
+<h1 align="center"> Rocket Notesq</h1>
 
 ## 💻 Projeto
 Projeto desenvolvido durante os Stages 8, 9 e 10 do programa Explorer da Rocketseat.
